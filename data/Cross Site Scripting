@@ -1,4 +1,0 @@
-XSS
-<script>
-alert('merong')
-</script>
